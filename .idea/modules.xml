@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AEM_v2.iml" filepath="$PROJECT_DIR$/.idea/AEM_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/aem-guides-wknd.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/aem-guides-wknd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/all/aem-guides-wknd.all.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/all/aem-guides-wknd.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/core/aem-guides-wknd.core.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/core/aem-guides-wknd.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/dispatcher/aem-guides-wknd.dispatcher.cloud.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/dispatcher/aem-guides-wknd.dispatcher.cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/it.tests/aem-guides-wknd.it.tests.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/it.tests/aem-guides-wknd.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/ui.apps/aem-guides-wknd.ui.apps.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/ui.apps/aem-guides-wknd.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/ui.apps.structure/aem-guides-wknd.ui.apps.structure.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/ui.apps.structure/aem-guides-wknd.ui.apps.structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/ui.config/aem-guides-wknd.ui.config.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/ui.config/aem-guides-wknd.ui.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/ui.content/aem-guides-wknd.ui.content.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/ui.content/aem-guides-wknd.ui.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/ui.frontend/aem-guides-wknd.ui.frontend.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/ui.frontend/aem-guides-wknd.ui.frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-wknd/ui.tests/aem-guides-wknd.ui.tests.iml" filepath="$PROJECT_DIR$/aem-guides-wknd/ui.tests/aem-guides-wknd.ui.tests.iml" />
+    </modules>
+  </component>
+</project>

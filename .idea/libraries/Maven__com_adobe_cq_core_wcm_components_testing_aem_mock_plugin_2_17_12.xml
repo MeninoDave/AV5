@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.adobe.cq:core.wcm.components.testing.aem-mock-plugin:2.17.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/cq/core.wcm.components.testing.aem-mock-plugin/2.17.12/core.wcm.components.testing.aem-mock-plugin-2.17.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/cq/core.wcm.components.testing.aem-mock-plugin/2.17.12/core.wcm.components.testing.aem-mock-plugin-2.17.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/cq/core.wcm.components.testing.aem-mock-plugin/2.17.12/core.wcm.components.testing.aem-mock-plugin-2.17.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
